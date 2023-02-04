@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14020
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11841
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12547
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11202
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12422
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10045
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9814
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10053
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11419
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12169
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11616
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Rousseau",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9457
+        }
+    ]
+}

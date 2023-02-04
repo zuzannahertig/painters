@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 202
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 97
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 113
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 102
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 86
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 98
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 103
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 123
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 88
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 93
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 85
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerald_Kelley",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 82
+        }
+    ]
+}

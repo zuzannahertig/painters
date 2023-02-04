@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 187
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 171
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 191
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 227
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 206
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 191
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 166
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 238
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 189
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emily_Mason",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 222
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 22514
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 22427
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25782
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20448
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19040
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16517
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16044
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18717
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18512
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21204
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23685
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Seurat",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17695
+        }
+    ]
+}

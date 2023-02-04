@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 79560
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 69331
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 77630
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 70346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 71520
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 63740
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 62270
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 65252
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 75616
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 85119
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 99716
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 65486
+        }
+    ]
+}

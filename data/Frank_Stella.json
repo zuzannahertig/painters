@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6559
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6145
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6384
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5461
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6400
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4547
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5702
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6139
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15186
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8473
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6458
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Stella",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5269
+        }
+    ]
+}

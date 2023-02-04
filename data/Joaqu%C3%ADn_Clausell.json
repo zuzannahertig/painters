@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 101
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 321
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 236
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 189
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 106
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 111
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 93
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 207
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 254
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 141
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Clausell",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 131
+        }
+    ]
+}

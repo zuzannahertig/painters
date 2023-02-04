@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1992
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3286
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2699
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1844
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1805
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1438
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1348
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1553
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1554
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1791
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1808
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Surikov",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1718
+        }
+    ]
+}

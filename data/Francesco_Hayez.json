@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2332
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2724
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2383
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2521
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2309
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2259
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2226
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2650
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2310
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2239
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2465
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francesco_Hayez",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2433
+        }
+    ]
+}

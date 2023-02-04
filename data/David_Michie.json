@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 259
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 180
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 211
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 270
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 333
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 215
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 250
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 256
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 218
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 179
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Michie",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 264
+        }
+    ]
+}

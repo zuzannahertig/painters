@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3709
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3507
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7537
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3257
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3463
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2829
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2388
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2731
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3475
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4323
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4182
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Gris",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3255
+        }
+    ]
+}

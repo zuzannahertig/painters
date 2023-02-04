@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12348
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11503
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11737
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11503
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11626
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10536
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13103
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14133
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12216
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13113
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17955
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrew_Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12374
+        }
+    ]
+}

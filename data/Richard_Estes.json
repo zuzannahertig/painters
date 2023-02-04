@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1418
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1305
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1628
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1109
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1581
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1128
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1438
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1487
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1477
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Estes",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1227
+        }
+    ]
+}

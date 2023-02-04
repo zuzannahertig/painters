@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 655
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1210
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1191
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 985
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1126
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 632
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 481
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 871
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 921
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 819
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 839
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anita_Malfatti",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 471
+        }
+    ]
+}

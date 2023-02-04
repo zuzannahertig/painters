@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18511
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15295
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14884
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12224
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11047
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12820
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12353
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13612
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24110
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21785
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hilma_af_Klint",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16482
+        }
+    ]
+}

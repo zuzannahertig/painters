@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6548
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6060
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5902
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6213
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6137
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5379
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5035
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5465
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5694
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6382
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5820
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Piero_della_Francesca",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6578
+        }
+    ]
+}

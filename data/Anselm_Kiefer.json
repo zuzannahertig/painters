@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6521
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5042
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6115
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7191
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6762
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6360
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5706
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6566
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7374
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8073
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9974
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anselm_Kiefer",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8123
+        }
+    ]
+}

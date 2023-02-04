@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 790
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 763
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1178
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2005
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 784
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 711
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 768
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 813
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 747
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 757
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 841
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00f3zef_Czapski",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 703
+        }
+    ]
+}

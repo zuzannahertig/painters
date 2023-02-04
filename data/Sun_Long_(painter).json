@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Sun_Long_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1433
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1361
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1632
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1569
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1836
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1861
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1756
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1465
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1520
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1509
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henryk_Siemiradzki",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1415
+        }
+    ]
+}

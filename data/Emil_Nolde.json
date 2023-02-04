@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5394
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3837
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3916
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3695
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3943
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3449
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3413
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4215
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4042
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4022
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5639
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Emil_Nolde",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4517
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 562
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 460
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 529
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 495
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 493
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 406
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 389
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 424
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 432
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 487
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 551
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amadeo_de_Souza_Cardoso",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 467
+        }
+    ]
+}

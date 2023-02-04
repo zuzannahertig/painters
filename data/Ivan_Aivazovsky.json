@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9078
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8123
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10889
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9954
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8934
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7678
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11926
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8120
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8157
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8402
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10509
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Aivazovsky",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9005
+        }
+    ]
+}

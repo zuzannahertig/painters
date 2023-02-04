@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 657
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 880
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 888
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 887
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 762
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 541
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 521
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 643
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 792
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 892
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 832
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ellen_Gallagher",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 602
+        }
+    ]
+}

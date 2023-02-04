@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2705
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3266
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2083
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1890
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2105
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1543
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1608
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1783
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2025
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2948
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2349
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Juliusz_Kossak",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2003
+        }
+    ]
+}

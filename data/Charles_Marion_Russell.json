@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4612
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4763
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4776
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4110
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3848
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4786
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4479
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4693
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4301
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5324
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4152
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Marion_Russell",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4523
+        }
+    ]
+}

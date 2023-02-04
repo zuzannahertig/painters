@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1750
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1647
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1907
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1486
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1760
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1578
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1964
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1932
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1535
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1596
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1686
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peder_Severin_Kr\u00f8yer",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1605
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 130715
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 109346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 138222
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 104408
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 113289
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 105864
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 98943
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 109841
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 119140
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 117156
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 123646
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Salvador_Dal\u00ed",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 100365
+        }
+    ]
+}

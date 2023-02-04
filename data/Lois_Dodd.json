@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 388
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 285
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 314
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 391
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 342
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 304
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 426
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 483
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 426
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 369
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Dodd",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 345
+        }
+    ]
+}

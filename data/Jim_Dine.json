@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2809
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3517
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2357
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2045
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2032
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1752
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1517
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1485
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3858
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3420
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2959
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jim_Dine",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2040
+        }
+    ]
+}

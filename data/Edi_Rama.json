@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18709
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13178
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15880
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14836
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14018
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 22310
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19187
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18158
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28936
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19235
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25497
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edi_Rama",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18414
+        }
+    ]
+}

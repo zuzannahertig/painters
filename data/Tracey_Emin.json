@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 35602
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21386
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19067
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19320
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18621
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16529
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14333
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12812
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12782
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23788
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15024
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tracey_Emin",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13187
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 224
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 218
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 239
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 237
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 207
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 187
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 191
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 200
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 182
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Combas",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 208
+        }
+    ]
+}

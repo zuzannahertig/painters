@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 458
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 417
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 439
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 524
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 442
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 336
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 350
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 364
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 396
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 338
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolphe_Willette",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 365
+        }
+    ]
+}

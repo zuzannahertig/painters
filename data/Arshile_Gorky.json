@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5362
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5148
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6042
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6464
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7281
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4365
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4622
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4825
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4508
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5408
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4795
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arshile_Gorky",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4113
+        }
+    ]
+}

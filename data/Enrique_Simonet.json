@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 698
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 728
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 605
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 992
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 649
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 616
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 724
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 770
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 714
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 779
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 721
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Enrique_Simonet",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 634
+        }
+    ]
+}

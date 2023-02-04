@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2220
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1479
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1785
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1688
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1401
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1691
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1559
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1459
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1675
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1639
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1740
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicolas_de_Sta\u00ebl",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1386
+        }
+    ]
+}

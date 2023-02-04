@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 51367
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 33541
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 39679
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 35717
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 31881
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 36062
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 32551
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 35259
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 38139
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 58619
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 44823
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Vermeer",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 39475
+        }
+    ]
+}

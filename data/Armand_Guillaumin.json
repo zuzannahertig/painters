@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1212
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1057
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 850
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 891
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 853
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 755
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 652
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 745
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 721
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 839
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 790
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Armand_Guillaumin",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 697
+        }
+    ]
+}

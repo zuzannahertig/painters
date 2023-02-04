@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 157027
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 147369
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 145732
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 137415
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 138621
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 118521
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 134394
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 152974
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 172734
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 211444
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 190297
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bob_Ross",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 186586
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1998
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2630
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2115
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2062
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2074
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3032
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2930
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4424
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3261
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8047
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8780
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alex_Katz",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8527
+        }
+    ]
+}

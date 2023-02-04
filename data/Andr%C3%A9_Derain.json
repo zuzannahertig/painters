@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4844
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4331
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4679
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4290
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3620
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3197
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3524
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4416
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4850
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5354
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andr\u00e9_Derain",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4030
+        }
+    ]
+}

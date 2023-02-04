@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27411
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24086
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24049
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26757
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 33735
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 42613
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 36267
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 36138
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 37422
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 109086
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 42926
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "H._R._Giger",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 36425
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 328
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 266
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 352
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 298
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 333
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 274
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 283
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 351
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 357
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 299
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 276
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_\u00c9mile_Chabas",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 368
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17618
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15207
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16407
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14575
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11081
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11580
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10332
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11812
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17064
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10563
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11050
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Derek_Jarman",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9932
+        }
+    ]
+}

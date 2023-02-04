@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5717
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4092
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3983
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5278
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4735
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3998
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3972
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3840
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4166
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4927
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3892
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Billy_Childish",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4200
+        }
+    ]
+}

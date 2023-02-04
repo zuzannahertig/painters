@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3063
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3026
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3449
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2827
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2960
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2615
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2248
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2490
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2816
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3657
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3454
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Theo_van_Doesburg",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2799
+        }
+    ]
+}

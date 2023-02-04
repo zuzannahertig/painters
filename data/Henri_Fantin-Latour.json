@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2208
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2131
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2164
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1842
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1955
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1762
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1663
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1961
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1823
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1971
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2007
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Fantin-Latour",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1784
+        }
+    ]
+}

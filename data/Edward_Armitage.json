@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 257
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 264
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 263
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 253
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 277
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 303
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 261
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 470
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 256
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 277
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 229
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Armitage",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 187
+        }
+    ]
+}

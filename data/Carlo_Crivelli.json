@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1938
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2622
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2843
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2424
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2054
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3078
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1832
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1801
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1643
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1945
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1896
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Crivelli",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2227
+        }
+    ]
+}

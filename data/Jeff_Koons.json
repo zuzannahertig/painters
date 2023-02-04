@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23914
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27121
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21904
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19591
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17954
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18555
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16924
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19127
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21606
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17806
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jeff_Koons",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17304
+        }
+    ]
+}

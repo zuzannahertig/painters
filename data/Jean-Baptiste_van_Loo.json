@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 638
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 416
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 443
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 435
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 437
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 411
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 507
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 464
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 505
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 640
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 457
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Baptiste_van_Loo",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 443
+        }
+    ]
+}

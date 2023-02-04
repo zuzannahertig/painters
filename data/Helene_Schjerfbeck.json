@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1662
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1717
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1806
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3768
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1976
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1281
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1761
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2072
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1702
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1740
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1698
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Helene_Schjerfbeck",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1748
+        }
+    ]
+}

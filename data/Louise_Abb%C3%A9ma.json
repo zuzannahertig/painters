@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 518
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 502
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 628
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 449
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 549
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 477
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 475
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 514
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 471
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 591
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 603
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louise_Abb\u00e9ma",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 510
+        }
+    ]
+}

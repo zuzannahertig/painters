@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 297
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 362
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 440
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 286
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 315
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 398
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 456
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 399
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 367
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dahlov_Ipcar",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 298
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 276
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 279
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 279
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 282
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 211
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 229
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 180
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 152
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 204
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 282
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 308
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michel_Tapi\u00e9",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 210
+        }
+    ]
+}

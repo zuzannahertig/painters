@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 898
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 755
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 950
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 945
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 839
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 848
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 789
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 858
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 926
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 957
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 915
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Laurens",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 941
+        }
+    ]
+}

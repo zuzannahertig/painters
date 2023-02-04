@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1216
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1057
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1111
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1067
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1957
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1202
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 988
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1069
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1203
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1449
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1230
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joachim_Patinir",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1074
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 226
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 152
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 217
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 204
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 167
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 167
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 161
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 164
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 177
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 175
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jesse_Richards",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 231
+        }
+    ]
+}

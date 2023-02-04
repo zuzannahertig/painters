@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 317109
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 274936
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 309478
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 264144
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 271723
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 243821
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 287535
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 242133
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 272095
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 357295
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 285432
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vincent_van_Gogh",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 258996
+        }
+    ]
+}

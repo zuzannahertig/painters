@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7246
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6147
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9856
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6321
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5821
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4901
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4490
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4778
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7432
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7280
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6866
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bridget_Riley",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5370
+        }
+    ]
+}

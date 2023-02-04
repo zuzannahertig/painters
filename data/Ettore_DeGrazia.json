@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 954
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1112
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1376
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1023
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1030
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 909
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 804
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 882
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 796
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 848
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 889
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ettore_DeGrazia",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1262
+        }
+    ]
+}

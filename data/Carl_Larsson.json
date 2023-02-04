@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3182
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2774
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2782
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2369
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5436
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2473
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2766
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2692
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2525
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2681
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2858
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carl_Larsson",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6333
+        }
+    ]
+}

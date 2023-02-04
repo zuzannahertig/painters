@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 114
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 114
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 99
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 100
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 116
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 68
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 71
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 59
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 83
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 78
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 74
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Leopold_L\u00f6ffler",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 97
+        }
+    ]
+}

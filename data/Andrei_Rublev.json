@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11158
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8121
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7546
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7602
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6425
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7087
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6737
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5730
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7509
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5923
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7338
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrei_Rublev",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7992
+        }
+    ]
+}

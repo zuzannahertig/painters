@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1392
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1411
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1252
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1097
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1354
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1132
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1010
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1284
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1122
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1304
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1042
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agostino_Carracci",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 904
+        }
+    ]
+}

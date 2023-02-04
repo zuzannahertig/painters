@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1455
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1068
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1170
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1064
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1110
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1291
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1412
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1424
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 964
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigrid_Hjert\u00e9n",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1267
+        }
+    ]
+}

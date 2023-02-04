@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1222
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1061
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1137
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1080
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1082
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 969
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 863
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 974
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 978
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1059
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1052
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rudolf_von_Alt",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1324
+        }
+    ]
+}

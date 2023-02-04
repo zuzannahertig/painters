@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3471
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3585
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3628
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3414
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3166
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3039
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3260
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3300
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4288
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4605
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Utamaro",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4308
+        }
+    ]
+}

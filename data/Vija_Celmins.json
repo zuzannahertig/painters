@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 917
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1070
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1064
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 941
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 989
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 679
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 736
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 834
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1496
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1085
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1045
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vija_Celmins",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 852
+        }
+    ]
+}

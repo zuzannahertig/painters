@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27456
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 55303
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27557
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26929
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27044
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20806
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18253
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24372
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 32868
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28311
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26933
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Roy_Lichtenstein",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21451
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 816
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 631
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 662
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 621
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 625
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 559
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 606
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 591
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 675
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 605
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 627
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adam_Elsheimer",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 843
+        }
+    ]
+}

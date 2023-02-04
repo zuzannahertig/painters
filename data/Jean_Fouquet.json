@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2595
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2006
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1942
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2136
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2063
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1931
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1688
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1853
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2570
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2318
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2412
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean_Fouquet",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2397
+        }
+    ]
+}

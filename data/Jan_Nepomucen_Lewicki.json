@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 92
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 80
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 52
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 49
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 57
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 46
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 52
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 46
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 164
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 55
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 90
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Nepomucen_Lewicki",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 91
+        }
+    ]
+}

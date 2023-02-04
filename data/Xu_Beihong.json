@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1266
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1033
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1042
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1175
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1365
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 871
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1093
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 902
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1023
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1270
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1109
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Xu_Beihong",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1044
+        }
+    ]
+}

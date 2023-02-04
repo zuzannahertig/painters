@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8039
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7142
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7714
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7571
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7660
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7223
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8457
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8510
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8143
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9239
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9284
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hiroshige",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9395
+        }
+    ]
+}

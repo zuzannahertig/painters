@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25376
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 22081
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19527
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19585
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17835
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17088
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17437
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19091
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19727
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20545
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29531
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Kinkade",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 40708
+        }
+    ]
+}

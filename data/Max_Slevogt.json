@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 623
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 580
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 637
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 560
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 649
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 634
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 557
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 605
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 665
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 830
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 784
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Slevogt",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 575
+        }
+    ]
+}

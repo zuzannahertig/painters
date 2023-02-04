@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1040
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 937
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1161
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 724
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 730
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 652
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 812
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 862
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 759
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 816
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 693
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Severn",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 695
+        }
+    ]
+}

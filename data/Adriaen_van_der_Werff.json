@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 426
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 252
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 249
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 250
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 299
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 276
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 300
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 246
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 231
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 327
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 340
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_van_der_Werff",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 298
+        }
+    ]
+}

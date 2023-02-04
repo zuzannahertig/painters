@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10807
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13337
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10015
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12759
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13104
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8947
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10160
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12510
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29761
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24966
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26565
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cy_Twombly",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13083
+        }
+    ]
+}

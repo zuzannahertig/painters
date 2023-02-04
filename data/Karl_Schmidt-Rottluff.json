@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1154
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1126
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1051
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 975
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 855
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 678
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 817
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1108
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1204
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1166
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Karl_Schmidt-Rottluff",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1086
+        }
+    ]
+}

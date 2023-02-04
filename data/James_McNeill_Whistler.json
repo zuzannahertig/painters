@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3234
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3076
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2697
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2798
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2155
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1809
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1815
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1827
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1742
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1876
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2099
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_McNeill_Whistler",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1727
+        }
+    ]
+}

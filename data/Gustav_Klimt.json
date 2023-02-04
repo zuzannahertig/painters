@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 48688
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 49460
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 45634
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 45311
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 44948
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 39139
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 47472
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 59074
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 52938
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 57477
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 64592
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustav_Klimt",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 50455
+        }
+    ]
+}

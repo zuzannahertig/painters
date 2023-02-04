@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2866
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2785
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2736
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2770
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2950
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3050
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2750
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2605
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3828
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2873
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2681
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hyacinthe_Rigaud",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2501
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3679
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3158
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2832
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2355
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2516
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2393
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2587
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2540
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2456
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3884
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2428
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Max_Liebermann",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2702
+        }
+    ]
+}

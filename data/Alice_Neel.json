@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9926
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7131
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7453
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5847
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5650
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5599
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4464
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6444
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3796
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6757
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5772
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Neel",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5548
+        }
+    ]
+}

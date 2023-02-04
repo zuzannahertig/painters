@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2350
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2671
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2334
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2297
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2231
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1900
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2163
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2271
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4070
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2495
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2675
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Moran",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2246
+        }
+    ]
+}

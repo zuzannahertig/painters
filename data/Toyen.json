@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1215
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1153
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1895
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1826
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1446
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1264
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1265
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 889
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1351
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 953
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1518
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Toyen",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1031
+        }
+    ]
+}

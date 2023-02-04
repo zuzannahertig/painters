@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 903
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 772
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 704
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 924
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 816
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 655
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 695
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 737
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 868
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 788
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 806
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_van_Eyck",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 884
+        }
+    ]
+}

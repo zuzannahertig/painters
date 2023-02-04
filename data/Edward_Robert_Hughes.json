@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1326
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1211
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1264
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1206
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1261
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1390
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1160
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1208
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1187
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1351
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1276
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Robert_Hughes",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1288
+        }
+    ]
+}

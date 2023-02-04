@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8663
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8218
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9482
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8320
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8085
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7899
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6868
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7161
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8785
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10014
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9085
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Giuseppe_Arcimboldo",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8778
+        }
+    ]
+}

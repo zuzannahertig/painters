@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5764
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4721
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7551
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5257
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5017
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4460
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5299
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4633
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5712
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4915
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Dadd",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6604
+        }
+    ]
+}

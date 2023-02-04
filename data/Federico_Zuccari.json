@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 825
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 651
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 681
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 669
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 707
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 713
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 638
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 669
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 788
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 762
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 845
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Federico_Zuccari",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 696
+        }
+    ]
+}

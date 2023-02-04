@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12256
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11824
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13003
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10217
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11891
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8285
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8061
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8516
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9006
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11962
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10969
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mary_Cassatt",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9549
+        }
+    ]
+}

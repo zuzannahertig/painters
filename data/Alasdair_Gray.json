@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4142
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3498
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3226
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3304
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3406
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3231
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3264
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3253
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4901
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2951
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alasdair_Gray",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3403
+        }
+    ]
+}

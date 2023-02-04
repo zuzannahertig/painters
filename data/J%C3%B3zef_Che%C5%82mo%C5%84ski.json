@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3348
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3155
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3323
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3327
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2856
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2495
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2144
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2350
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3442
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2624
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3400
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Che\u0142mo\u0144ski",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2404
+        }
+    ]
+}

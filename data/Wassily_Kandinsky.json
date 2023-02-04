@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 45151
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 43797
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 49214
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 40287
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 38304
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 32151
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30887
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 32765
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 39974
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 40010
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 39612
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Wassily_Kandinsky",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 37684
+        }
+    ]
+}

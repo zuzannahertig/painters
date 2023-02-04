@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 775
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 760
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 735
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 726
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 645
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 578
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 751
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 692
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 757
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 567
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hubert_von_Herkomer",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 590
+        }
+    ]
+}

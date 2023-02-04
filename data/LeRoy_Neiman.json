@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3890
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3290
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4121
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3537
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3485
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3505
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3984
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3431
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3275
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3768
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "LeRoy_Neiman",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3289
+        }
+    ]
+}

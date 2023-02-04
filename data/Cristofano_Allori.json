@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 526
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 494
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 488
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 536
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 468
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 429
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 408
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 455
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 379
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 595
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 522
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cristofano_Allori",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 435
+        }
+    ]
+}

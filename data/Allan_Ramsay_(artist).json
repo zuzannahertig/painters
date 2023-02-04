@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1912
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1794
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2055
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2256
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2013
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1849
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1775
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3094
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3865
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2379
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1990
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Allan_Ramsay_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1815
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11039
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10601
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11341
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11287
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11333
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9938
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9946
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10890
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10409
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11406
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10931
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-L\u00e9on_G\u00e9r\u00f4me",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10798
+        }
+    ]
+}

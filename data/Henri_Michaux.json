@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1807
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1563
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1562
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1667
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1375
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1441
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1481
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1371
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1686
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1780
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Michaux",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1570
+        }
+    ]
+}

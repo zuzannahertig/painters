@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 617
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 638
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 639
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 634
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 691
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1314
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 770
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 745
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 734
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1735
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 756
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Francis_Cropsey",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 699
+        }
+    ]
+}

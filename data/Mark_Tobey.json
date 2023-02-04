@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 971
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 944
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1061
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1021
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1031
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1030
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 894
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 983
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 870
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 998
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 966
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mark_Tobey",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 922
+        }
+    ]
+}

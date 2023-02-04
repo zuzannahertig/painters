@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Roman_Rupniewski",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 74
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Roman_Rupniewski",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 496
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Roman_Rupniewski",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 95
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Roman_Rupniewski",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 56
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Roman_Rupniewski",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 49
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Roman_Rupniewski",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Roman_Rupniewski",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 34
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Roman_Rupniewski",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 56
+        }
+    ]
+}

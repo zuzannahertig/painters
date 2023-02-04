@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6488
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5237
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5855
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6093
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5043
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5213
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5174
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5414
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5255
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6264
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5760
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Tissot",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6258
+        }
+    ]
+}

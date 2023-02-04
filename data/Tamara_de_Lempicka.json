@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8392
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8030
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10601
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9134
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11430
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14583
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8729
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9269
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10587
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11036
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tamara_de_Lempicka",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9176
+        }
+    ]
+}

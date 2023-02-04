@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27294
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18006
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18401
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15284
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15122
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10796
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10808
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11775
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11939
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12679
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12378
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jasper_Johns",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11083
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5273
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3210
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3317
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3426
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3209
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4082
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6571
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4713
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3021
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2599
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2688
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassandra_Austen",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2684
+        }
+    ]
+}

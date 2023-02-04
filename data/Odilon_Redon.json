@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5989
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6224
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6400
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6385
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5637
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5565
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6054
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5987
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6577
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7232
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Odilon_Redon",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5935
+        }
+    ]
+}

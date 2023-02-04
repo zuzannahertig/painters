@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 164
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 262
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 196
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 120
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 134
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 227
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 131
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 183
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 139
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 207
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 186
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Walden",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 125
+        }
+    ]
+}

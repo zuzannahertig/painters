@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 35
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 50
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 53
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 52
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 40
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 51
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 40
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 42
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 52
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Kanty_Szwedkowski",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26
+        }
+    ]
+}

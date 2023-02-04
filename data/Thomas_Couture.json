@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1215
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1112
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1472
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1292
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1211
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1219
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1358
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1263
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1323
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1223
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Thomas_Couture",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1406
+        }
+    ]
+}

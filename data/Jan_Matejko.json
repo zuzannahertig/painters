@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12631
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12966
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12043
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12831
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18727
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8678
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6744
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8222
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8164
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10414
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19624
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Matejko",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14869
+        }
+    ]
+}

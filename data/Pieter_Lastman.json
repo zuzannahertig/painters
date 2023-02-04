@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1068
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 933
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1012
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 968
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 888
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 868
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 778
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 815
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 873
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1040
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1080
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Lastman",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 915
+        }
+    ]
+}

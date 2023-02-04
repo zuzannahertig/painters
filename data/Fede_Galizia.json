@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 641
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 596
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 836
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 679
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 709
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 614
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 541
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 504
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 619
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 838
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 808
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fede_Galizia",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 597
+        }
+    ]
+}

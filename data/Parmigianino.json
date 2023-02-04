@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3238
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2778
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3111
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2778
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3053
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2624
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2277
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2726
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2432
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3178
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3058
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Parmigianino",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2554
+        }
+    ]
+}

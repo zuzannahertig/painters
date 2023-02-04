@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3060
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2549
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2629
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3034
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3092
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2754
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2600
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2637
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2758
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3119
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3228
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "F\u00e9lix_Vallotton",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3397
+        }
+    ]
+}

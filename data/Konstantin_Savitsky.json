@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 742
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 836
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 624
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 691
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 503
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 451
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 586
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 527
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 602
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 570
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Savitsky",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 570
+        }
+    ]
+}

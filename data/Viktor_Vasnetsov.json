@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4104
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4592
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5774
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4275
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3955
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3378
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3172
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3429
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3470
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3662
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4099
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Viktor_Vasnetsov",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3903
+        }
+    ]
+}

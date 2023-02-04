@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2241
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2049
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2885
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2526
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2225
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1962
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2246
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2401
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2544
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2512
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2308
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gottfried_Helnwein",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2338
+        }
+    ]
+}

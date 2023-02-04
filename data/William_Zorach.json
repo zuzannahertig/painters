@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 360
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 349
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 303
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 330
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 261
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 336
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 305
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 448
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 414
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 392
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Zorach",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 333
+        }
+    ]
+}

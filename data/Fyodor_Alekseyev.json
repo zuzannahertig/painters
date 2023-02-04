@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 214
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 306
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 203
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 436
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 513
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 422
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 389
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 367
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 206
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 229
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fyodor_Alekseyev",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 152
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 149
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 94
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 102
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 83
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 99
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 86
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 84
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 98
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 115
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 106
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 118
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrik_van_Steenwijk_II",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 113
+        }
+    ]
+}

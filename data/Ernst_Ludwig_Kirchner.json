@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7240
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6264
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6987
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5969
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7282
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5218
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4480
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5339
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6384
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6087
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5923
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ernst_Ludwig_Kirchner",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5752
+        }
+    ]
+}

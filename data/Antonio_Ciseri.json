@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 651
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 630
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 793
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1623
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 662
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 598
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 714
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 816
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 725
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 938
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 892
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Ciseri",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 800
+        }
+    ]
+}

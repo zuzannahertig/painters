@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3691
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3232
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3284
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2918
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2852
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2558
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2590
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3726
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3710
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3711
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Le_Brun",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3304
+        }
+    ]
+}

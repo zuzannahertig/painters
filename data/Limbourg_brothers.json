@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1375
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1375
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1318
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1147
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1150
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1016
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 961
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1006
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1568
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1513
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1544
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Limbourg_brothers",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1296
+        }
+    ]
+}

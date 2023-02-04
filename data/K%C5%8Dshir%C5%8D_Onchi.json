@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 385
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 335
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 373
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 323
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 300
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 262
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 266
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 308
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 327
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 386
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 317
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "K\u014dshir\u014d_Onchi",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 355
+        }
+    ]
+}

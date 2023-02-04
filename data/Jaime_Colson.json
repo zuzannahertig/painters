@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 317
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 454
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 596
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 418
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 539
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 435
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 176
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 226
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 507
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 771
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 585
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jaime_Colson",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 417
+        }
+    ]
+}

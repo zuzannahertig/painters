@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3133
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2589
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2602
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2705
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3898
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3245
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2924
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3338
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3279
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3765
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3901
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Brian_Froud",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3952
+        }
+    ]
+}

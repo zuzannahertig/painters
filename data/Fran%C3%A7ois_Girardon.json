@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 339
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 300
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2956
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 421
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 364
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 326
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 231
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 222
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 274
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 382
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 408
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fran\u00e7ois_Girardon",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 335
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5801
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14839
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11385
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6100
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5156
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4909
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4852
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5215
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5507
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5841
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9930
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Holman_Hunt",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12905
+        }
+    ]
+}

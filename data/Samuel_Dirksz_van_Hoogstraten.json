@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 520
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 515
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 432
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 447
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 378
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 402
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 538
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 514
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 518
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 482
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Samuel_Dirksz_van_Hoogstraten",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 516
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9186
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7910
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10294
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8455
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7543
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5465
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5494
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5678
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7812
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8219
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8386
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Chuck_Close",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6672
+        }
+    ]
+}

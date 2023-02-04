@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 944
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 824
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 850
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 837
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 936
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 813
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 863
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1334
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1008
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 888
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 870
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Gerstl",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 862
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2216
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3334
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2106
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1981
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5536
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2420
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3542
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7018
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9959
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3227
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3230
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alice_Prin",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2634
+        }
+    ]
+}

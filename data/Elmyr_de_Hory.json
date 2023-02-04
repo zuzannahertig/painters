@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4103
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2582
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2510
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2360
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2312
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2757
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3934
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3002
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2533
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2475
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elmyr_de_Hory",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2853
+        }
+    ]
+}

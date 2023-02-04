@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2762
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2559
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2771
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2907
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2719
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2499
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2524
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3002
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3008
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2914
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3038
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Vuillard",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2887
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12166
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9349
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16474
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15539
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11101
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9796
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9876
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10485
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9310
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10283
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9138
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Julian_Schnabel",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8059
+        }
+    ]
+}

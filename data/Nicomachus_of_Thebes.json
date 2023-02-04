@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 108
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 139
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 103
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 87
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 75
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 62
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 68
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 81
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 82
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 98
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 107
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nicomachus_of_Thebes",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 95
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26162
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25465
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30405
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29579
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27989
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23604
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29388
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27734
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27103
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29178
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30601
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marc_Chagall",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29103
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 411
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 483
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 506
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 532
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 458
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 447
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 376
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 378
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 466
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 449
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 520
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Liang_Kai",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 442
+        }
+    ]
+}

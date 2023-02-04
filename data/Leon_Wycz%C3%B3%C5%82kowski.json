@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 443
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 442
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 499
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 525
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 381
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 335
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 351
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 369
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 364
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 394
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 371
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leon_Wycz\u00f3\u0142kowski",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 303
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1551
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1576
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1639
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1587
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1594
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1652
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1731
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2088
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1648
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3611
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2068
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Paul_Riopelle",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1939
+        }
+    ]
+}

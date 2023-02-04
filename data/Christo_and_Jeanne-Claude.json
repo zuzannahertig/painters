@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10562
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28414
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9364
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9966
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8786
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13235
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9775
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8198
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7571
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8461
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8627
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christo_and_Jeanne-Claude",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6543
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15153
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14403
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13465
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13337
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10905
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 40318
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16546
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14164
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13707
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11889
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14649
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._F._Husain",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13847
+        }
+    ]
+}

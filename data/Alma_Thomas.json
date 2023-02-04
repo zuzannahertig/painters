@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4801
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12259
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2732
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2775
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2774
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1704
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1789
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2756
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3258
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2458
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alma_Thomas",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2172
+        }
+    ]
+}

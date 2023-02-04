@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 349
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 372
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 602
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 460
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 464
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 312
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 316
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 300
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 283
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 368
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pavel_Fedotov",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 342
+        }
+    ]
+}

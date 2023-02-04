@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 158
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 128
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 151
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 146
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 95
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 65
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 84
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 85
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 97
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 208
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 108
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Watson_Gordon",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 57
+        }
+    ]
+}

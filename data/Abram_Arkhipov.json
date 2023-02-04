@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 329
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 378
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 315
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 288
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 349
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 215
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 234
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 255
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 240
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 288
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 294
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Abram_Arkhipov",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 259
+        }
+    ]
+}

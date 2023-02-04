@@ -1,0 +1,31 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Alan_Sutherland_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 33
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alan_Sutherland_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 48
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alan_Sutherland_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 52
+        }
+    ]
+}

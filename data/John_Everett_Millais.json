@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18560
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25043
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19477
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13748
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13960
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14366
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14432
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17700
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19925
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16555
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13604
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Everett_Millais",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18174
+        }
+    ]
+}

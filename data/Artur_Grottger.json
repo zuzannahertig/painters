@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2889
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2513
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2241
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1776
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1793
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1459
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1143
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1374
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1546
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2715
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3816
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Artur_Grottger",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3361
+        }
+    ]
+}

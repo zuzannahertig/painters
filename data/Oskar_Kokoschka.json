@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7189
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5659
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6277
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5401
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5014
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4776
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4744
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7882
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6347
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8113
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6861
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Oskar_Kokoschka",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6334
+        }
+    ]
+}

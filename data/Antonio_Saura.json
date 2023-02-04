@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 326
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 275
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 314
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 311
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 380
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 320
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 299
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 339
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 351
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 456
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonio_Saura",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 382
+        }
+    ]
+}

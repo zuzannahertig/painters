@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 64
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 83
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 94
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 91
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 49
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 198
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 54
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 88
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 72
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 107
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Carline",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 78
+        }
+    ]
+}

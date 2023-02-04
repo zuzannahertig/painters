@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2652
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2150
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2643
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2980
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2204
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2379
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2170
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2115
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2016
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2150
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2125
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gwen_John",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1918
+        }
+    ]
+}

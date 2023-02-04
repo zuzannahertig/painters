@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 963
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 780
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 944
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 817
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 806
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1471
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 791
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 842
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1743
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1232
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1145
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Euan_Uglow",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 920
+        }
+    ]
+}

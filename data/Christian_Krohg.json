@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 964
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 947
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 987
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 907
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 905
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 783
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 921
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1071
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 876
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3636
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1066
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Christian_Krohg",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 958
+        }
+    ]
+}

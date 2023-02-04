@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7839
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7913
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8828
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17753
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13656
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11149
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12349
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10132
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13792
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12064
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11452
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Winslow_Homer",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10958
+        }
+    ]
+}

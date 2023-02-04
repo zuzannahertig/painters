@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3516
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3259
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3550
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3446
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3643
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2908
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3406
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3674
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3230
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3421
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edward_Ruscha",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3428
+        }
+    ]
+}

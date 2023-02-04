@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1909
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1560
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1802
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1680
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1998
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1435
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1842
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1599
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1431
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2483
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2491
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Luis_Ricardo_Falero",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1749
+        }
+    ]
+}

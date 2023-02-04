@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 151
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 135
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 141
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 275
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 124
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 101
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 124
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 164
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 134
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 104
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 154
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Bartholomeus_Strobel",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 155
+        }
+    ]
+}

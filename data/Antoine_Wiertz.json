@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 564
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 602
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 609
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 708
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 682
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 737
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 904
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 805
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1029
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 996
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoine_Wiertz",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 960
+        }
+    ]
+}

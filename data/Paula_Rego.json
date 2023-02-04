@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4680
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3670
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3511
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3179
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4202
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 63020
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11730
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4031
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4058
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4193
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3631
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paula_Rego",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3416
+        }
+    ]
+}

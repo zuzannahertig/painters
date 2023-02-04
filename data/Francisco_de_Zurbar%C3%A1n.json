@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3357
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3051
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3614
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3066
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2732
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2574
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2753
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2885
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3238
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3685
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Zurbar\u00e1n",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3153
+        }
+    ]
+}

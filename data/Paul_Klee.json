@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20666
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18017
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19940
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18177
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17340
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15358
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15526
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16109
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18632
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26512
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21550
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Klee",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18523
+        }
+    ]
+}

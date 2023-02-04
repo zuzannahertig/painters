@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 853
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 592
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 689
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 714
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 828
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 622
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 625
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 614
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 806
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 764
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 710
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hartung",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 672
+        }
+    ]
+}

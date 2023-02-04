@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3334
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2942
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3062
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3203
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2719
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2263
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2628
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3933
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3649
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3817
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3759
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Atkinson_Grimshaw",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3129
+        }
+    ]
+}

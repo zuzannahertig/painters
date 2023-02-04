@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1461
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1391
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2744
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2875
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2838
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2273
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1320
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1288
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1386
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1431
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kawanabe_Ky\u014dsai",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1380
+        }
+    ]
+}

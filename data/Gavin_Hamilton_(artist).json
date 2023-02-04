@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 571
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 474
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 503
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 508
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 649
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 395
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1031
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1107
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1134
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1586
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 471
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gavin_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 383
+        }
+    ]
+}

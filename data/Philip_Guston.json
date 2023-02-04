@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3584
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3486
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3334
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5665
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12676
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6885
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5198
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5735
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4503
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3985
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4512
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_Guston",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4970
+        }
+    ]
+}

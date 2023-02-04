@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1055
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 894
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 873
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1061
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 979
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 853
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 861
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 982
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1107
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1231
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1059
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Daniel_Maclise",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1071
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8517
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7241
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6839
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8719
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7039
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7197
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10239
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9005
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8643
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7984
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Andrea_del_Verrocchio",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8270
+        }
+    ]
+}

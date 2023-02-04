@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1536
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1577
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1585
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1692
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1531
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1449
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1298
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1572
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1622
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1966
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1820
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simone_Martini",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1624
+        }
+    ]
+}

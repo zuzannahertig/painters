@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1167
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1002
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1814
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 888
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 891
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 707
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 862
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 654
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 663
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 962
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 911
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brandt",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 750
+        }
+    ]
+}

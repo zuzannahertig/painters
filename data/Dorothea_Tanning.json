@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2957
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2927
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3927
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3690
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2825
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2741
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3741
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3288
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3130
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Dorothea_Tanning",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2767
+        }
+    ]
+}

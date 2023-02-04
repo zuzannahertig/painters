@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1154
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1189
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1845
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1496
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1373
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1164
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1146
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1301
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1190
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1225
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1427
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Vasily_Perov",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1324
+        }
+    ]
+}

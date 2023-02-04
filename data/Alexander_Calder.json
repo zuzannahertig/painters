@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10996
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12486
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13111
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12321
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9046
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8586
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9224
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11282
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12067
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11354
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexander_Calder",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9203
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 308
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 273
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 330
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 279
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 310
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 256
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 226
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 237
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 275
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 302
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 292
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Otto_Marseus_van_Schrieck",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 266
+        }
+    ]
+}

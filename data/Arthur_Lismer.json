@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 848
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 688
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 829
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 819
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 768
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 653
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 598
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 601
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 599
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 737
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 821
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Arthur_Lismer",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 639
+        }
+    ]
+}

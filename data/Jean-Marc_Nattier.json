@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1059
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 987
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1150
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1056
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1050
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1154
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 980
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 928
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 980
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1106
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1155
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jean-Marc_Nattier",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1071
+        }
+    ]
+}

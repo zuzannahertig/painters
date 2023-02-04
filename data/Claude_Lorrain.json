@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4303
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4369
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4681
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4306
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4642
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4047
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3723
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3799
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4895
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4740
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5029
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Claude_Lorrain",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4198
+        }
+    ]
+}

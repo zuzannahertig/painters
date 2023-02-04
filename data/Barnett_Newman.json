@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4614
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3664
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4044
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3835
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3861
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3592
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3992
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3483
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3731
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7222
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Barnett_Newman",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6312
+        }
+    ]
+}

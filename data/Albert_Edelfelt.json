@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1406
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1308
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1997
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2227
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1883
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1600
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1515
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1800
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1365
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1392
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1796
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Edelfelt",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1474
+        }
+    ]
+}

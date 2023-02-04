@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9869
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9272
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8845
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8977
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9139
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8332
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8033
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7714
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8023
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12035
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10102
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Louis_Comfort_Tiffany",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9703
+        }
+    ]
+}

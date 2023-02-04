@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8817
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7440
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8428
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7133
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6959
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6328
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6215
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8502
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7074
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7729
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6979
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Martin_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6118
+        }
+    ]
+}

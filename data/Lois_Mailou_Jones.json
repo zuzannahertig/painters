@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2304
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7526
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3168
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1838
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1458
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 938
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 869
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1802
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1260
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1585
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1811
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lois_Mailou_Jones",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1681
+        }
+    ]
+}

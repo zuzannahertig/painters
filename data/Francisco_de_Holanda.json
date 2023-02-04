@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 495
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 445
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 444
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 427
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 438
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 446
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 490
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 584
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 491
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 416
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 339
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_de_Holanda",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 316
+        }
+    ]
+}

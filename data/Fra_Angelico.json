@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8967
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8628
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6484
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6584
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6022
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5221
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5513
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6590
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6564
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7071
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7021
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fra_Angelico",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7171
+        }
+    ]
+}

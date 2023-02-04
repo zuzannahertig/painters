@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 282
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 335
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 269
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 229
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 285
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 297
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 196
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 249
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 219
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 286
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 294
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philips_Wouwerman",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 232
+        }
+    ]
+}

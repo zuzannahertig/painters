@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1065
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 889
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1317
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 776
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 718
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 825
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 734
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 922
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 792
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 942
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 903
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Gude",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 982
+        }
+    ]
+}

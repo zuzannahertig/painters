@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4340
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4466
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3430
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3450
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4268
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5228
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3590
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3644
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21981
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8888
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4883
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Philip_de_L\u00e1szl\u00f3",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3963
+        }
+    ]
+}

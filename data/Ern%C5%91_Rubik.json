@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17696
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14608
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18387
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14215
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16653
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14237
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13696
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12936
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13802
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15822
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19003
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ern\u0151_Rubik",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20133
+        }
+    ]
+}

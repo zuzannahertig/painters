@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3377
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3243
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3858
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3945
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3841
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2997
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2718
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2934
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3612
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4019
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3723
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eduardo_Paolozzi",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2848
+        }
+    ]
+}

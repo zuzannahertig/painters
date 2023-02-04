@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14302
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13157
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12589
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13183
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11950
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10797
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11353
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10775
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12103
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21367
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14650
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Constable",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11588
+        }
+    ]
+}

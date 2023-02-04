@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2038
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1663
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1714
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1463
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1408
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1250
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1178
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1341
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1472
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1543
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1582
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Erich_Heckel",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1502
+        }
+    ]
+}

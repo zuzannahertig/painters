@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 945
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 909
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1084
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 889
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 779
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 767
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 816
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 895
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2388
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1104
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1017
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Michael_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 927
+        }
+    ]
+}

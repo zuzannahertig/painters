@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3946
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2292
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2281
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2643
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2042
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1955
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1840
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25377
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6964
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2781
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2682
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Nicholson",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2175
+        }
+    ]
+}

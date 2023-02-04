@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 617
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 577
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 604
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 613
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 537
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 565
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 593
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 546
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 673
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 619
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 717
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Pousette-Dart",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 813
+        }
+    ]
+}

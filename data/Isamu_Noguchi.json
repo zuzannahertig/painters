@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13450
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11508
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13501
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11059
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14097
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10499
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12297
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17314
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12020
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12411
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11893
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Isamu_Noguchi",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10145
+        }
+    ]
+}

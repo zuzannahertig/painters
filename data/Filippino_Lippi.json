@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1651
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1475
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1693
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1618
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1664
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2031
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1809
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1654
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1551
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1765
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1677
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Filippino_Lippi",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1715
+        }
+    ]
+}

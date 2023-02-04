@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12460
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16459
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23072
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18260
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13765
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9936
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7447
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10524
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21721
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20706
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18837
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Juan_Luna",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11278
+        }
+    ]
+}

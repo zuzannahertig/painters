@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2362
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 711
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 985
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1097
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1086
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 745
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 644
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 613
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 523
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1415
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1350
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rory_McEwen_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1206
+        }
+    ]
+}

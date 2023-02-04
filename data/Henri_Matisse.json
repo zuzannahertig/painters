@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 54378
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 47969
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 49617
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 44281
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 47005
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 42650
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 40741
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 41508
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 46928
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 60685
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 52499
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henri_Matisse",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 47116
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 103
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 77
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 80
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 101
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 65
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 81
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 97
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 90
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 82
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 74
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 84
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tadashi_Nakayama_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 80
+        }
+    ]
+}

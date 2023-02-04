@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 819
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 761
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 826
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 990
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 911
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 632
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 601
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 813
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 796
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 885
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 774
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Lawrence_Pelton",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 889
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 236
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 221
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 232
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 269
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 300
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 234
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 274
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 209
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 238
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 343
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lionel_Lindsay",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 269
+        }
+    ]
+}

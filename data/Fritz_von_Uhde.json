@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 353
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 363
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 362
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 413
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 401
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 350
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 471
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 311
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 288
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 408
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 369
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fritz_von_Uhde",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 540
+        }
+    ]
+}

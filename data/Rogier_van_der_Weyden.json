@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4370
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4052
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4168
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4112
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3726
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5970
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3630
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3840
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4199
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4131
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4007
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Rogier_van_der_Weyden",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4086
+        }
+    ]
+}

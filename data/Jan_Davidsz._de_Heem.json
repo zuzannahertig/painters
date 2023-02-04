@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1046
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 996
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 899
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 852
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 677
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 703
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 693
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 872
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1021
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1063
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Davidsz._de_Heem",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 957
+        }
+    ]
+}

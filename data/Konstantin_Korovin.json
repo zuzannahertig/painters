@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1017
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 910
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1006
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 784
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 783
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 638
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 704
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 927
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 800
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 904
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 860
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Korovin",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 984
+        }
+    ]
+}

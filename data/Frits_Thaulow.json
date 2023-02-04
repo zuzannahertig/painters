@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 789
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 691
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 652
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 576
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 601
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 576
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 545
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 691
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 609
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 904
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 747
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frits_Thaulow",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 551
+        }
+    ]
+}

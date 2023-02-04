@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9746
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10562
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11792
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10433
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11104
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9490
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8939
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9364
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10805
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11641
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11621
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Friedensreich_Hundertwasser",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9823
+        }
+    ]
+}

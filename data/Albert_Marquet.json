@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1078
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 898
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1141
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 995
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 942
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 748
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 803
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 816
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 848
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 900
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 944
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albert_Marquet",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 966
+        }
+    ]
+}

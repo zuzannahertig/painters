@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19036
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18798
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19680
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20119
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18269
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18106
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14928
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15659
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15875
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18414
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18944
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Eug\u00e8ne_Delacroix",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16449
+        }
+    ]
+}

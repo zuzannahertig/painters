@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 620
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 555
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 551
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 576
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 627
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 605
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 781
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5355
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 978
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 837
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 954
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Demarco",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 642
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16182
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16571
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18523
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16461
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16839
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15398
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14703
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16169
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15337
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17667
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17764
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gustave_Courbet",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15763
+        }
+    ]
+}

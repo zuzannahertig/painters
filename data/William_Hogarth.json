@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14095
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13159
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12201
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12682
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11423
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10249
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9897
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10723
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10630
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12546
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12859
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Hogarth",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11175
+        }
+    ]
+}

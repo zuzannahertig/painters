@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1457
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1445
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1584
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1464
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1460
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1258
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1129
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1398
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1348
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1536
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1762
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Albrecht_Altdorfer",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1459
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 36
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 46
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 34
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 37
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 33
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 42
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 33
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 22
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Edward_Jan_R\u00f6mer",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20
+        }
+    ]
+}

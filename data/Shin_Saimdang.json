@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2730
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4010
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3161
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3355
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4565
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2937
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2973
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3549
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2821
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2828
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3103
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shin_Saimdang",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2801
+        }
+    ]
+}

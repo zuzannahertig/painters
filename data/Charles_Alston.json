@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1225
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2854
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3147
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1303
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1356
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 569
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 460
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 576
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 674
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 943
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 918
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Alston",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 875
+        }
+    ]
+}

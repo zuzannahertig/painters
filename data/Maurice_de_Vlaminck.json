@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2155
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2227
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2361
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2287
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1708
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1630
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2461
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3032
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3597
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_de_Vlaminck",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2320
+        }
+    ]
+}

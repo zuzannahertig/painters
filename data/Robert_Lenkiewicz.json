@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1039
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1122
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 848
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 940
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 798
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 840
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 946
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 989
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 758
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1019
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1138
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Lenkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1010
+        }
+    ]
+}

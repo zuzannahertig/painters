@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 539
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 753
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 636
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 575
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 564
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 454
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 714
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 585
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 746
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 750
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Howardena_Pindell",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 487
+        }
+    ]
+}

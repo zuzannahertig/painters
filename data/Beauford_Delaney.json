@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2065
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2681
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2038
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1618
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1469
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1621
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1385
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1581
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1273
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1448
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1410
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Beauford_Delaney",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1465
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 57
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 48
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 34
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 38
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 60
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 31
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 41
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 66
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Jan_Krzysztof_Damel",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 41
+        }
+    ]
+}

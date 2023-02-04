@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3391
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3288
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3265
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3092
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3463
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3096
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3514
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3281
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2783
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7016
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3017
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Childe_Hassam",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3017
+        }
+    ]
+}

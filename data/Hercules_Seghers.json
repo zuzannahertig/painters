@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 409
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 381
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 462
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 364
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 384
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 394
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 348
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 337
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 476
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 557
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 478
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hercules_Seghers",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 340
+        }
+    ]
+}

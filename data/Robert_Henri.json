@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2782
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2933
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2814
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2652
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2512
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2749
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2572
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2794
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2666
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3098
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3009
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Henri",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2602
+        }
+    ]
+}

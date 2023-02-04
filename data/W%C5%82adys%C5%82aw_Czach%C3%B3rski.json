@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 382
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 298
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 394
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 288
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 343
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 334
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 245
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 339
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 329
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 312
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 337
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "W\u0142adys\u0142aw_Czach\u00f3rski",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 243
+        }
+    ]
+}

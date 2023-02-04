@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 188
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 142
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 148
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 137
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 203
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 167
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 137
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 134
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 130
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 109
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Jacobsen",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 106
+        }
+    ]
+}

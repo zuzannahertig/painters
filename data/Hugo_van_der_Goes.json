@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1682
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1484
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1499
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1389
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1294
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1185
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1204
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1435
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1723
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hugo_van_der_Goes",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1868
+        }
+    ]
+}

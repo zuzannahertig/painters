@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1566
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1611
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1738
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1523
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1553
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1309
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1274
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1523
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1421
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4130
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maurice_Denis",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1287
+        }
+    ]
+}

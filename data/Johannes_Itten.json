@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3425
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3309
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3394
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2810
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2603
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2279
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1937
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2103
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2562
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3058
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2936
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johannes_Itten",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2874
+        }
+    ]
+}

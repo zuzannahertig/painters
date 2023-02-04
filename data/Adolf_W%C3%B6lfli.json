@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2283
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2571
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2186
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2315
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1946
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2357
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2201
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2301
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3232
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2384
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adolf_W\u00f6lfli",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2403
+        }
+    ]
+}

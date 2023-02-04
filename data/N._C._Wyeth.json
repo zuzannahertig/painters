@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4468
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4295
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4588
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4726
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4707
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4614
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4640
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5408
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4274
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4880
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4746
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "N._C._Wyeth",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4309
+        }
+    ]
+}

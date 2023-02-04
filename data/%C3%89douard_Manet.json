@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 36292
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23076
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24016
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23786
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23977
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20836
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20630
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21408
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24024
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26895
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27125
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u00c9douard_Manet",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23929
+        }
+    ]
+}

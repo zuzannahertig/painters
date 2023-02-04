@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 383
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 265
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 316
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 320
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 284
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 264
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 256
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 328
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 452
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kaii_Higashiyama",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 361
+        }
+    ]
+}

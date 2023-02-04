@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 213
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 135
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 305
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 191
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 143
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 144
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 199
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 126
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 179
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 312
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jacob_Gerritsz._Cuyp",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 161
+        }
+    ]
+}

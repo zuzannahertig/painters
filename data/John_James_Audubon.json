@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12534
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11763
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13029
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18194
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12682
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10820
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13082
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10857
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11766
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10849
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_James_Audubon",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10969
+        }
+    ]
+}

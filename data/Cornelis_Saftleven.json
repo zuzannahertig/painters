@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 147
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 202
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 198
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 176
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 188
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 145
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 166
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 142
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 174
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 213
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cornelis_Saftleven",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 223
+        }
+    ]
+}

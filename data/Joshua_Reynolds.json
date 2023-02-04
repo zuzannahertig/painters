@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7142
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8115
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7743
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6625
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6880
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5806
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6137
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6252
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6233
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7090
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6788
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joshua_Reynolds",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6419
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1275
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1103
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1118
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1154
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1161
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1060
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1177
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1106
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1399
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1498
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1246
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucas_Cranach_the_Younger",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1006
+        }
+    ]
+}

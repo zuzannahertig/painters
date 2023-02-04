@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4842
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4942
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5022
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4550
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5139
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4375
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4904
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5133
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4887
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5252
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5743
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Catlin",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5203
+        }
+    ]
+}

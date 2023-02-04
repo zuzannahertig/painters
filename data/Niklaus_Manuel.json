@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 33
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 34
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 34
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Niklaus_Manuel",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 22
+        }
+    ]
+}

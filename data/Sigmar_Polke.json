@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1395
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1513
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1373
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1324
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1692
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1152
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1053
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1106
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1439
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1731
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1358
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sigmar_Polke",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1136
+        }
+    ]
+}

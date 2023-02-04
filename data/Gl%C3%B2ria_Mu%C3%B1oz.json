@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 105
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 88
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 98
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 132
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 82
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 44
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 60
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 46
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 39
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 66
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 64
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gl\u00f2ria_Mu\u00f1oz",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 42
+        }
+    ]
+}

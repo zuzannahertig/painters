@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1478
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1381
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1390
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1334
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1398
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1187
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1335
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1242
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1352
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1364
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Petrus_Christus",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1358
+        }
+    ]
+}

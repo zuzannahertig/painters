@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13054
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21322
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13809
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13141
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13175
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13983
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13994
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14553
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14025
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13435
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13012
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frank_Frazetta",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20301
+        }
+    ]
+}

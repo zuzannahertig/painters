@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 200567
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 205357
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 262189
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 192440
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 206191
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 168475
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 232438
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 176362
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 233779
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 244027
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 207628
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frida_Kahlo",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 173005
+        }
+    ]
+}

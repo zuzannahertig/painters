@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3075
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3309
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3349
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3292
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2961
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2731
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2218
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2527
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2842
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2865
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3016
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Duccio",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2765
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 142
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 143
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 159
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 125
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 132
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 128
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 140
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 165
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 158
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 183
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 142
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jan_Wyck",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 118
+        }
+    ]
+}

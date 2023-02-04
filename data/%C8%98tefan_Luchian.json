@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 970
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1090
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 996
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 623
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 751
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 466
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 343
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 382
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 437
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 453
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 485
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "\u0218tefan_Luchian",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 422
+        }
+    ]
+}

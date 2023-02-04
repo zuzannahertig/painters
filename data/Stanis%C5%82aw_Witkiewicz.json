@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2788
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2421
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1905
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1907
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2119
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1952
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3409
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2825
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3862
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3496
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2619
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Stanis\u0142aw_Witkiewicz",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2703
+        }
+    ]
+}

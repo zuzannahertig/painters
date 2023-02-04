@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 539
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 450
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 436
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 466
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 517
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 434
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 378
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 356
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 561
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 568
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 713
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "January_Suchodolski",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 481
+        }
+    ]
+}

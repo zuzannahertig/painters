@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6903
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6197
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6523
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14705
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20939
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9870
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8936
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12862
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10242
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7979
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7214
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Walter_Sickert",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7987
+        }
+    ]
+}

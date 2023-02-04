@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 816
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 678
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 719
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 641
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 749
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 583
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 614
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 611
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 617
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 701
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 683
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Shitao",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 819
+        }
+    ]
+}

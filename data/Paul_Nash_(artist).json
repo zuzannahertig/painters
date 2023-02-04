@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3627
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2898
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3146
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4215
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3112
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2585
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2525
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2739
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3354
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3079
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3532
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Paul_Nash_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4085
+        }
+    ]
+}

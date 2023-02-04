@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 81
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 64
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 54
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 69
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 57
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 41
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 48
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 47
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 46
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 68
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 74
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "J\u00f3zef_Brodowski_(m\u0142odszy)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 119
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1513
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1895
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 867
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 787
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 804
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 704
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 712
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1074
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 932
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1023
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hendrick_Avercamp",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1618
+        }
+    ]
+}

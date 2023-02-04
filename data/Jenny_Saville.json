@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5169
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4196
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4535
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4011
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3735
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2507
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2400
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3519
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6400
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4648
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4913
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jenny_Saville",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3253
+        }
+    ]
+}

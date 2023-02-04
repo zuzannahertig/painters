@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 614
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 419
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 347
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 764
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 691
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 373
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 368
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 330
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 893
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 487
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 404
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Elizabeth_Forbes_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 404
+        }
+    ]
+}

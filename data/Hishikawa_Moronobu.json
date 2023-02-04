@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1735
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1616
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1778
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1657
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1678
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1679
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1852
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1863
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1759
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2009
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2009
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hishikawa_Moronobu",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2078
+        }
+    ]
+}

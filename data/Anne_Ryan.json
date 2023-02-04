@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 375
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 434
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 677
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 384
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 381
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 332
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 341
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 390
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 358
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 470
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 407
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Anne_Ryan",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 398
+        }
+    ]
+}

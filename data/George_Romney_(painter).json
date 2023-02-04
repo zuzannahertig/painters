@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2115
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2014
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2467
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2366
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2270
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1934
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2005
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2244
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1811
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2162
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2378
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Romney_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2309
+        }
+    ]
+}

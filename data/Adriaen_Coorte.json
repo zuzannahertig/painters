@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 429
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 315
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 270
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 263
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 393
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 298
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 325
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Adriaen_Coorte",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 258
+        }
+    ]
+}

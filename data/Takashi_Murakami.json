@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25362
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 33659
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23290
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23940
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18689
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17220
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18322
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20556
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21971
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24434
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Takashi_Murakami",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20021
+        }
+    ]
+}

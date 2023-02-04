@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1540
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1699
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1362
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1611
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1551
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1273
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1843
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1872
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1859
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1447
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Roberts",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1161
+        }
+    ]
+}

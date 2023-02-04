@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7645
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8586
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10563
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8331
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6619
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6144
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6899
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5366
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6401
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10943
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10910
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_G\u00e9ricault",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6525
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24896
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23217
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24423
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25719
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 22426
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18799
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19257
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 18574
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19686
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21565
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21744
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Edgar_Degas",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19117
+        }
+    ]
+}

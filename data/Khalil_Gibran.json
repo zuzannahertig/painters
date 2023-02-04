@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1603
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1462
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1460
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1672
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1514
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1489
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1482
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1487
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1467
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1481
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Khalil_Gibran",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1644
+        }
+    ]
+}

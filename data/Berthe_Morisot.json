@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9327
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8284
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11213
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7663
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8080
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7058
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6044
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6533
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6961
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15467
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11251
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Berthe_Morisot",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8951
+        }
+    ]
+}

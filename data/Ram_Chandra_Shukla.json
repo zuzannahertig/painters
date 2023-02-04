@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 232
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 283
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 322
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 141
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 165
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 187
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 229
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 197
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 246
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 153
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 167
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ram_Chandra_Shukla",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 130
+        }
+    ]
+}

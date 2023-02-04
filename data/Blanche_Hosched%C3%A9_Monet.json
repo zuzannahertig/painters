@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1521
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1175
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1401
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1304
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1286
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1431
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1689
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1587
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1484
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1773
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1881
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Blanche_Hosched\u00e9_Monet",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1386
+        }
+    ]
+}

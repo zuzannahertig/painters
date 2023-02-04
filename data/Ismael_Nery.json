@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 188
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 157
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 164
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 169
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 160
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 162
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 163
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 150
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 185
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 237
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 162
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ismael_Nery",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 132
+        }
+    ]
+}

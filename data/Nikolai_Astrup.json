@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 903
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 876
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 956
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 972
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 755
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 765
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 841
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 861
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 606
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 682
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 652
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Nikolai_Astrup",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 619
+        }
+    ]
+}

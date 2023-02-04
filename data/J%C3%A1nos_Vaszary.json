@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 166
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 154
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 129
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 163
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 136
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 109
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 153
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 153
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 271
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 610
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 562
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J\u00e1nos_Vaszary",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 453
+        }
+    ]
+}

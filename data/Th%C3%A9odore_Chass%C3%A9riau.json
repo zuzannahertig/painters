@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1144
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1119
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1139
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1120
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1140
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1030
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1020
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1081
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1034
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1324
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1124
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Th\u00e9odore_Chass\u00e9riau",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1125
+        }
+    ]
+}

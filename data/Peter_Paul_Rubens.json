@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28811
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28417
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27679
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27957
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27546
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25933
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25735
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26445
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28358
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 33016
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 34290
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Paul_Rubens",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30479
+        }
+    ]
+}

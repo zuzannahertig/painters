@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 564
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 478
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 460
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 444
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 467
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 450
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 564
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 572
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 475
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 628
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 639
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Walery_Eljasz-Radzikowski",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 582
+        }
+    ]
+}

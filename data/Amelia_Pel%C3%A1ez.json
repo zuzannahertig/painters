@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 423
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 432
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 475
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 400
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 432
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 221
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 196
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 336
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 669
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 663
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 500
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Amelia_Pel\u00e1ez",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 384
+        }
+    ]
+}

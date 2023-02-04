@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1337
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1197
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 987
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1714
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1110
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 877
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1152
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2760
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1062
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1640
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1739
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Konstantin_Somov",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2591
+        }
+    ]
+}

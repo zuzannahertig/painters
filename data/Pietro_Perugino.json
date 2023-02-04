@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2976
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2699
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2754
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2875
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2750
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2426
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2408
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2709
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2639
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2776
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2890
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_Perugino",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2866
+        }
+    ]
+}

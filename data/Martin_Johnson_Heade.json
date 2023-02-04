@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2307
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2793
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3017
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2705
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2857
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2811
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2756
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2575
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2458
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2448
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2690
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Martin_Johnson_Heade",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2320
+        }
+    ]
+}

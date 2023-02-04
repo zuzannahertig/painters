@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5886
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4777
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3888
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1837
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1997
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1471
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1482
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1608
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1611
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1842
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1702
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sophie_Taeuber-Arp",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1642
+        }
+    ]
+}

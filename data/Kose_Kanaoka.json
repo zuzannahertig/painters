@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 93
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 112
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 90
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 107
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 123
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 96
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 96
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 90
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 91
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 92
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 126
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kose_Kanaoka",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 125
+        }
+    ]
+}

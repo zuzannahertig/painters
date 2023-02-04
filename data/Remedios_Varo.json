@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7041
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7099
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7625
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7572
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11663
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7981
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6211
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6182
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6234
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7875
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6818
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Remedios_Varo",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6062
+        }
+    ]
+}

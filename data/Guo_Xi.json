@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 612
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 673
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 855
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 618
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 627
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 509
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 419
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 536
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 709
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 787
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1011
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Guo_Xi",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 630
+        }
+    ]
+}

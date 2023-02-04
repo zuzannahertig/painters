@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 995
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1027
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1258
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1319
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1093
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 825
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 701
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 686
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 827
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1007
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 996
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Mikhail_Larionov",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 796
+        }
+    ]
+}

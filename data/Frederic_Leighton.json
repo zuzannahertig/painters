@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4529
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4197
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4324
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5088
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3985
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4452
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3938
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4132
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4369
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5981
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5930
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frederic_Leighton",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7072
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4700
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5493
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5074
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4541
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4728
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4150
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3970
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4201
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4937
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5430
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4640
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Fernand_L\u00e9ger",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4346
+        }
+    ]
+}

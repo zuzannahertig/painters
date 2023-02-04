@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 854
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 872
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 941
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 699
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 488
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 440
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 460
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1089
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 959
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 785
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 831
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sava_\u0160umanovi\u0107",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1532
+        }
+    ]
+}

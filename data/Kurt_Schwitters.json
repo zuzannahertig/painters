@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5072
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4701
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4650
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4159
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4149
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3695
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2963
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3433
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4177
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5398
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4829
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Kurt_Schwitters",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3766
+        }
+    ]
+}

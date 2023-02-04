@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1099
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1214
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1458
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1253
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1274
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1710
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2177
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1285
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1294
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1245
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1252
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Tom_Wesselmann",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1328
+        }
+    ]
+}

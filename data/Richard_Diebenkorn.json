@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2524
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2703
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2659
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2906
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2327
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2139
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2294
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2314
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2449
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2635
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2612
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Diebenkorn",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2251
+        }
+    ]
+}

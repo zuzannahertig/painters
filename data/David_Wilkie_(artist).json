@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1221
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1076
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1045
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1026
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1391
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1099
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1133
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1261
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1467
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1542
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1328
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "David_Wilkie_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1203
+        }
+    ]
+}

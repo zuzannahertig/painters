@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4122
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3163
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3489
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3297
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3609
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3394
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3460
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4217
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4217
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4313
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4265
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cha\u00efm_Soutine",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4096
+        }
+    ]
+}

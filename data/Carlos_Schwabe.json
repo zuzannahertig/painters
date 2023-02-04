@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1383
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1519
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1472
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1133
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1154
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1078
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1140
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1614
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1370
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1325
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1318
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlos_Schwabe",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1166
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 424
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 370
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 376
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 321
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 303
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 339
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 309
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 310
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 398
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 428
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 403
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "William_Coldstream",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 309
+        }
+    ]
+}

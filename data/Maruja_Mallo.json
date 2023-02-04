@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 680
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 783
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1096
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 685
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 501
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 477
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 504
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 544
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 573
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 598
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 742
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Maruja_Mallo",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 621
+        }
+    ]
+}

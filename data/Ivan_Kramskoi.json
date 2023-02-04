@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1823
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2189
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2921
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2042
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2026
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1762
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1494
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2074
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2213
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2135
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2183
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ivan_Kramskoi",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2041
+        }
+    ]
+}

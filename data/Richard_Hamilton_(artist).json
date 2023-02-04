@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4075
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3930
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3995
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4047
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4134
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3257
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2382
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2624
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4717
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3936
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3660
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Richard_Hamilton_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2993
+        }
+    ]
+}

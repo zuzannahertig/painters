@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 520
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 450
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 299
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 310
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 357
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 362
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 266
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 269
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 224
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 369
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 477
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Fryderyk_Florian_Skarbek",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 346
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1582
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1463
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1366
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1260
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1247
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1203
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1382
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1361
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1452
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1353
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Johan_Christian_Dahl",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1393
+        }
+    ]
+}

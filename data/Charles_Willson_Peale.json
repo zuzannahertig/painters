@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4368
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3221
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3036
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3108
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2702
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2397
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2808
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2674
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2900
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3095
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2818
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Charles_Willson_Peale",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2917
+        }
+    ]
+}

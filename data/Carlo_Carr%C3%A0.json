@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1571
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1631
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1637
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1568
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1730
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1298
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1159
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1083
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1338
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2331
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1609
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Carlo_Carr\u00e0",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1306
+        }
+    ]
+}

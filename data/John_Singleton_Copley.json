@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3480
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3509
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3543
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3824
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3785
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2931
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3938
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3362
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3927
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4033
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4009
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "John_Singleton_Copley",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3502
+        }
+    ]
+}

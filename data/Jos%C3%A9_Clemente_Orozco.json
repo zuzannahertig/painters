@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3531
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3814
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4456
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4223
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2881
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2718
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3459
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4207
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4371
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4809
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jos\u00e9_Clemente_Orozco",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3593
+        }
+    ]
+}

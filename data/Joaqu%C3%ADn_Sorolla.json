@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5003
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5798
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6035
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6376
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5876
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5079
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5540
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5605
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5668
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5688
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joaqu\u00edn_Sorolla",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4977
+        }
+    ]
+}

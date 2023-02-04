@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 46248
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 31110
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30148
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 32502
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30953
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28255
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28616
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29509
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 35903
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 32367
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 34224
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "J._M._W._Turner",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 35573
+        }
+    ]
+}

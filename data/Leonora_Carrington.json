@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9493
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8799
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10373
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12561
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10063
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8312
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9122
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10687
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 11203
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10656
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14131
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Leonora_Carrington",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9780
+        }
+    ]
+}

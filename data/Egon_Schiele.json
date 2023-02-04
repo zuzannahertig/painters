@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23640
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20606
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 31092
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20044
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20555
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19291
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19236
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21857
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21692
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 36279
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24670
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Egon_Schiele",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26482
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23385
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 16777
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15934
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 19092
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27111
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27320
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17412
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 12641
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13562
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 14025
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15345
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Gerda_Wegener",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30291
+        }
+    ]
+}

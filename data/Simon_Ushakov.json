@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 247
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 312
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 329
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 365
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 287
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 289
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 250
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 219
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 290
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 314
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 319
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Simon_Ushakov",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 316
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1630
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1490
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1609
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1522
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1542
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1411
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1284
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1434
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1662
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1952
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1656
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antoni_T\u00e0pies",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1474
+        }
+    ]
+}

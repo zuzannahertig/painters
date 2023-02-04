@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 910
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 801
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 819
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 803
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 801
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 702
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 721
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 714
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 928
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 913
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 862
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pieter_Aertsen",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 786
+        }
+    ]
+}

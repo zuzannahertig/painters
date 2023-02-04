@@ -1,0 +1,58 @@
+{
+    "items": [
+        {
+            "project": "pl.wikipedia",
+            "article": "Franciszek_\u015amiadecki",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 17
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Franciszek_\u015amiadecki",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Franciszek_\u015amiadecki",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Franciszek_\u015amiadecki",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 20
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Franciszek_\u015amiadecki",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 13
+        },
+        {
+            "project": "pl.wikipedia",
+            "article": "Franciszek_\u015amiadecki",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 15
+        }
+    ]
+}

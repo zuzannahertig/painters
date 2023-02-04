@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2046
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1133
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1053
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1306
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1090
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 934
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 788
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2019
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2645
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2225
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Ben_Enwonwu",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 850
+        }
+    ]
+}

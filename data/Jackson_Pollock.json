@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 70270
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 57832
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 70666
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 62048
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 65812
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 59515
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 54364
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 54953
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 56200
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 61373
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 60837
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Jackson_Pollock",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 57663
+        }
+    ]
+}

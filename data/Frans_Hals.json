@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6637
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5402
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5499
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5112
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5286
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6454
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4972
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5161
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4958
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5944
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27225
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Frans_Hals",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9948
+        }
+    ]
+}

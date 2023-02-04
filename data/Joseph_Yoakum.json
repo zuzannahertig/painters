@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1298
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5233
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1183
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 554
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 484
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 339
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 415
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 303
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 216
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 230
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 556
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Joseph_Yoakum",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 264
+        }
+    ]
+}

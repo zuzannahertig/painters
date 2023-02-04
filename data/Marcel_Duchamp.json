@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29955
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26834
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 31156
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 27616
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26272
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30085
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24463
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21700
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25351
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30576
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25426
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Marcel_Duchamp",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23361
+        }
+    ]
+}

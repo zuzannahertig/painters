@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2565
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2323
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2259
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2200
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2419
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2377
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2094
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2340
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2897
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2628
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2643
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Cassius_Marcellus_Coolidge",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2285
+        }
+    ]
+}

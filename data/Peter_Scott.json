@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7401
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3634
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4923
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3527
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2979
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3406
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3609
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3689
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3277
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3564
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Peter_Scott",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10835
+        }
+    ]
+}

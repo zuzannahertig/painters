@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 32539
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29604
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 32874
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 38078
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 41392
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 40925
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29421
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30271
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 31618
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 32646
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 37091
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "M._C._Escher",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 32055
+        }
+    ]
+}

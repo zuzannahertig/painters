@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 342
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 244
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 312
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 390
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 590
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 380
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 299
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 347
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 289
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Josef_M\u00e1nes",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 265
+        }
+    ]
+}

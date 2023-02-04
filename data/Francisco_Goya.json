@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 50012
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 48809
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 52517
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 44724
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 41082
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 37754
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 37790
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 45403
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 46711
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 51313
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 52793
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Francisco_Goya",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 42390
+        }
+    ]
+}

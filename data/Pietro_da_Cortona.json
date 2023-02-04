@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1468
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1403
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1631
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1540
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1671
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1419
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1114
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1278
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1359
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1614
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1638
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Pietro_da_Cortona",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1334
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 21979
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23144
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28907
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24480
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25595
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 40523
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26474
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 24094
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28988
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 34235
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Artemisia_Gentileschi",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25983
+        }
+    ]
+}

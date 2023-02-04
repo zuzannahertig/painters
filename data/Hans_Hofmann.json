@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2845
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2978
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3309
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2890
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2860
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2457
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2728
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2919
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2690
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2911
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2804
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Hans_Hofmann",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2575
+        }
+    ]
+}

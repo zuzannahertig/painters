@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29136
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26784
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26332
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 26777
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25045
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 25921
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 31320
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 28406
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 33275
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 29653
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Raja_Ravi_Varma",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 30438
+        }
+    ]
+}

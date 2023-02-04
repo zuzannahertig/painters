@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 318
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 279
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 269
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 249
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 266
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 271
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 212
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 213
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 256
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 265
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 292
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sakai_H\u014ditsu",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 274
+        }
+    ]
+}

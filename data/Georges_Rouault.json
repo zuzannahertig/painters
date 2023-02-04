@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1660
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1611
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1798
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1846
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1822
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1386
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1353
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1709
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1505
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1651
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1663
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Georges_Rouault",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1458
+        }
+    ]
+}

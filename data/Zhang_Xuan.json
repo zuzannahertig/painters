@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 303
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 338
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 367
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 297
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 336
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 248
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 298
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 257
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 244
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 303
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 269
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Zhang_Xuan",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 254
+        }
+    ]
+}

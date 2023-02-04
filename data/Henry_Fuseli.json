@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6701
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6618
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6152
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5844
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5731
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5105
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5479
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6051
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7185
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9972
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9494
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Henry_Fuseli",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 7481
+        }
+    ]
+}

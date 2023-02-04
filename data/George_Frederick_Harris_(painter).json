@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 90
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 75
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 82
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 120
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 55
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 83
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 65
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 96
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 113
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 144
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 116
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "George_Frederick_Harris_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 88
+        }
+    ]
+}

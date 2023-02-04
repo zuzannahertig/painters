@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4502
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3967
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4527
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6249
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3933
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3325
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3461
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3937
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3689
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4636
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4273
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Agnes_Martin",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4375
+        }
+    ]
+}

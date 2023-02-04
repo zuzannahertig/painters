@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5409
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2578
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 345
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 230
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 299
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 352
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 830
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 639
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 355
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2254
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 380
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "James_Morrison_(artist)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 288
+        }
+    ]
+}

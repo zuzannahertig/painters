@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1469
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1383
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1537
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1287
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1302
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1957
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1229
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1598
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1620
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2552
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1095
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Sanford_Robinson_Gifford",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 978
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2048
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2305
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2255
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2181
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2315
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2141
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1715
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1776
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1841
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2370
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 2364
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Lucio_Fontana",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3066
+        }
+    ]
+}

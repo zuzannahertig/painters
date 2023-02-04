@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1992
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1832
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1739
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1872
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1850
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1652
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1436
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1726
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1644
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1778
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1801
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Antonello_da_Messina",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 1803
+        }
+    ]
+}

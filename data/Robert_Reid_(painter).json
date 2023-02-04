@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 127
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 120
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 158
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 123
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 71
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 93
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 113
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 100
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 117
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 134
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 85
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Robert_Reid_(painter)",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 71
+        }
+    ]
+}

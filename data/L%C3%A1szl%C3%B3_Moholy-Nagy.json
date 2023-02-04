@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5884
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4917
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5343
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4793
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4810
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3978
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4346
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 3814
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4833
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5602
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6025
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "L\u00e1szl\u00f3_Moholy-Nagy",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 4339
+        }
+    ]
+}

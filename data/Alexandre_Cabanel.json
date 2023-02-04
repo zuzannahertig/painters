@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6309
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5709
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6279
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6571
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 6366
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5958
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 5685
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9317
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 23472
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 10724
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 9220
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Alexandre_Cabanel",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 8433
+        }
+    ]
+}

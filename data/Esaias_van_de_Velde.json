@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022010100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 242
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022020100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 208
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022030100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 198
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022040100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 198
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022050100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 192
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022060100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 148
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022070100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 148
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022080100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 205
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022090100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 215
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022100100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 190
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022110100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 232
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Esaias_van_de_Velde",
+            "granularity": "monthly",
+            "timestamp": "2022120100",
+            "access": "all-access",
+            "agent": "user",
+            "views": 226
+        }
+    ]
+}
